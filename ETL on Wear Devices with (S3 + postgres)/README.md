@@ -1,12 +1,17 @@
 # ETL ExtractTransformLoad
 
 ![Slide 1](https://user-images.githubusercontent.com/32847030/78184573-b4966580-7437-11ea-9c0e-4d4de928ffa4.jpeg)
-This projects represents a simple data warehousing process that can be helpful in developing the though process behind any big data-management project that involves the usage of cutting-edge technologies. 
+
 
 -------
 
 
 ![Slide 6](https://user-images.githubusercontent.com/32847030/78184598-bc560a00-7437-11ea-9ed9-03adad56fc34.jpeg)
+
+
+---------
+
+![Slide 3](https://user-images.githubusercontent.com/32847030/78184586-b829ec80-7437-11ea-901a-3c10f63758d3.jpeg)
 
 
 ---------
@@ -20,12 +25,6 @@ This projects represents a simple data warehousing process that can be helpful i
 **- Understanding Workflow:** We will see the overall workflow understand the process from start to end.   
 
 **- Understand Star Schema:** At last we will see the end result and explain the benefit.  
-
-
-----------
-
-
-![Slide 3](https://user-images.githubusercontent.com/32847030/78184586-b829ec80-7437-11ea-901a-3c10f63758d3.jpeg)
 
 
 -----------
